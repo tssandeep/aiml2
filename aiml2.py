@@ -1,3 +1,3 @@
 import sys
   
-sys.stdout.write("Hello World")
+sys.stdout.write("AI ML")
