@@ -3,6 +3,6 @@
  */
 public class aiml2 {
   public static void main(String[] args) {
-    system.out.println("Ai, Ml");
+    System.out.println("Ai, Ml");
   }
 }
